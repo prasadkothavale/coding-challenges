@@ -17,4 +17,3 @@ https://adventofcode.com/2025
 | **11** | [Reactor](https://adventofcode.com/2025/day/11) | https://github.com/prasadkothavale/coding-challenges/advent-of-code-2025/11._Reactor_.ipynb |
 | **12** | [Christmas Tree](https://adventofcode.com/2025/day/12) | https://github.com/prasadkothavale/coding-challenges/advent-of-code-2025/12._Christmas_Tree_Farm.ipynb |
 
-
